@@ -1,0 +1,1 @@
+aws s3 sync "./xyz" s3://gdn-cdn/maptiles/hillshade/europe-africa/xyz --acl public-read
